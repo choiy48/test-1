@@ -34,4 +34,4 @@ ___
 > 인포메이션
 > > 글로벌 인포메이션
 
-한줄짜리 소스코드는 'fuction add(x,y){return x+y;}'처럼 사용합니다.
+한줄짜리 소스코드는 `fuction add(x,y){return x+y;}`처럼 사용합니다.
