@@ -44,4 +44,4 @@ ___
 
 ![이미지연습](https://ssl.pstatic.net/melona/libs/1439/1439639/c90d1218ca46408dd402_20230313144215099.jpg)
 
-![떠오르는태양](./hd-wallpaper-g93c6e59fb_1920.jpg)
+![떠오르는태양](./images/hd-wallpaper-g93c6e59fb_1920.jpg)
